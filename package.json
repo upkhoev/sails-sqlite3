@@ -5,7 +5,7 @@
   "main": "lib/adapter.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndrewJo/sails-sqlite3.git"
+    "url": "https://github.com/upkhoev/sails-sqlite3.git"
   },
   "keywords": [
     "orm",
@@ -16,14 +16,6 @@
     "sqlite"
   ],
   "contributors": [
-    {
-      "name": "Andrew Jo",
-      "email": "andrewjo@gmail.com>"
-    },
-    {
-      "name": "Kevin C. Gall",
-      "email": "kcg245@gmail.com"
-    }
   ],
   "license": "MIT",
   "readmeFilename": "README.md",
